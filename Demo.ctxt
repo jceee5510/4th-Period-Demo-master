@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Demo()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Demo\n
+comment1.params=
+comment1.target=int\ getX()
+comment1.text=\n\ Getter\ for\ instance\ variable\ x.\n\n
+comment2.params=
+comment2.target=int\ getY()
+numComments=3
