@@ -26,8 +26,10 @@ public class Demo
         return x;
     }
     
-    public int getY()
+    public int  getY()
     {
         return y;
+        //yes
     }
+    
 }
